@@ -79,3 +79,4 @@ endmodule
 
 **Result:**
 Implementation of Half-Adder and Half-Subtractor circuit was successfully verified.
+
