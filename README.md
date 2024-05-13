@@ -68,6 +68,8 @@ output D,Bo; // Outputs sum and carry for half adder:Outputs difference D,Borrow
 assign D = a ^ b;
   assign Bo = ~a & b;
 endmodule
+![Screenshot 2024-05-13 084840](https://github.com/Ettasupraja/HALF_ADDER_SUBTRACTOR/assets/151641352/e08d46ad-878f-4612-ade8-022f4a278eef)
+
 
 **RTL Schematic**
 ![Screenshot 2024-04-04 165100](https://github.com/Ettasupraja/HALF_ADDER_SUBTRACTOR/assets/151641352/a6bd058a-df62-483c-a6e0-458626a35c39)
